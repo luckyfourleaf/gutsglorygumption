@@ -1,4 +1,7 @@
-/* Created By Dave Cohen in Vienna. */
+/* 
+GUTS GLORY GUMPTION
+A Shiny Object Labs production
+Copright 2012 Sean Kelley */
 
 
 /* SITE */
